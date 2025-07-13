@@ -1,0 +1,13 @@
+{
+  "name": "task_4",
+  "version": "1.0.0",
+  "description": "TypeScript Task 4 - Namespaces & Declaration merging",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.4",
+    "@typescript-eslint/eslint-plugin": "^2.4.0",
+    "@typescript-eslint/parser": "^2.4.0"
+  }
+}
